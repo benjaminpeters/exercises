@@ -1,7 +1,5 @@
 from sort import *
 import random
-import timeit
-import cProfile
 
 def is_sorted(L):
     """Return True iff L is in non-decreasing order."""
